@@ -18,3 +18,8 @@ If you are developing a production application, we recommend using TypeScript an
   npm install
   npm run dev
 ```
+
+## Install Redux - javscript version
+```
+npm install @reduxjs/toolkit react-redux
+```
